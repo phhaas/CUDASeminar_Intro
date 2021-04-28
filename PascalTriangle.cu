@@ -65,6 +65,7 @@ int main() {
     for (int i = 0; i < N; i++) {
         printf("%d\t", (int)(fac(N-1) / (float)fac(i) / (float)fac(N-1-i)));
     }
+    printf("\n");
 
     //free memory
     cudaFree(Drow);

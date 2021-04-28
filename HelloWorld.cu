@@ -18,4 +18,6 @@ int main() {
 
 	// run kernel in 3 instances
 	helloWorldDevice <<<1, 3>>> ();
+
+	cudaDeviceSynchronize();
 }
