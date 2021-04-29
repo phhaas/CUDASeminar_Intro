@@ -9,9 +9,15 @@ To compile just run `make` in bash.
 ## Further reading
 
 https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html
+
 https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+
 https://www.khronos.org/opengl/wiki_opengl/index.php
+
 https://www.opengl.org/
+
 https://www.3dgep.com/introduction-opengl/
+
 https://www.3dgep.com/opengl-interoperability-with-cuda/
+
 https://opengl-notes.readthedocs.io/en/latest/index.html
